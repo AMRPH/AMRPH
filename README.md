@@ -9,13 +9,14 @@
 
 ### Languages and Tools (Java Developer)
 [![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=java)](https://github.com/AMRPH)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)](https://github.com/AMRPH)
 [![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)](https://github.com/AMRPH)
-[![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android)](https://github.com/AMRPH)
 [![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=Git)](https://github.com/AMRPH)
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)](https://github.com/AMRPH)
-[![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)](https://github.com/AMRPH)
 [![PostgreSQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=PostgreSQL)](https://github.com/AMRPH)
+
+[![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)](https://github.com/AMRPH)
+[![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android)](https://github.com/AMRPH)
+[![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)](https://github.com/AMRPH)
 
 ### My Social Links
 [![Kaggle](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/shidlovskiy)
