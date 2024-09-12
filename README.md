@@ -6,6 +6,8 @@
 [![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy)](https://github.com/AMRPH)
 [![scikit-learn](https://img.shields.io/badge/-scikitlearn-090909?style=for-the-badge&logo=scikitlearn)](https://github.com/AMRPH)
 [![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas)](https://github.com/AMRPH)
+[![CatBoost](https://img.shields.io/badge/-CatBoost-090909?style=for-the-badge&logo=CatBoost)](https://github.com/AMRPH)
+[![Transformers](https://img.shields.io/badge/-Transformers-090909?style=for-the-badge&logo=Transformers)](https://github.com/AMRPH)
 
 ### Languages and Tools (Java Developer)
 [![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)](https://github.com/AMRPH)
@@ -13,6 +15,7 @@
 [![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)](https://github.com/AMRPH)
 [![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=Git)](https://github.com/AMRPH)
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)](https://github.com/AMRPH)
+[![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)](https://github.com/AMRPH)
 [![PostgreSQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=PostgreSQL)](https://github.com/AMRPH)
 
 ### My Social Links
