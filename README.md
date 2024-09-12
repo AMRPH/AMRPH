@@ -26,5 +26,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/shdlvvv)
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:shiidlovskiy@gmail.com)
 
-🥇 Hackathon «АтомикХак»
-**1** Scientific work
+### Interesting
+- 🥇 Hackathon «АтомикХак»
+- **1** Scientific work
