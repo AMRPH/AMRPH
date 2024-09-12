@@ -29,3 +29,4 @@
 ### Interesting
 - 🥇 Hackathon «АтомикХак»
 - **1** Scientific work
+- Worked on ML at **SBER**
