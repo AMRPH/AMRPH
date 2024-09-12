@@ -26,11 +26,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/shdlvvv)
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:shiidlovskiy@gmail.com)
 
-<details>
-<summary>⚡ GitHub Stats</summary>
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e0xextazy&layout=compact&theme=tokyonight)](https://github.com/e0xextazy)
-  
-  [![e0xextazy's github stats](https://github-readme-stats.vercel.app/api?username=e0xextazy&show_icons=true?count_private=true&theme=tokyonight)](https://github.com/e0xextazy)
-
-</details>
+🥇 Hackathon «АтомикХак»
+**1** Scientific work
