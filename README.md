@@ -27,6 +27,7 @@
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:shiidlovskiy@gmail.com)
 
 ### Interesting
-- 🥇 Hackathon «АтомикХак»
+- 🥇 Hackathon «АтомикХак» (2023)
+- 🥉 International hackathon «Цифровой прорыв. Сезон: Искусственный интелект» (2023)
 - **1** Scientific work
 - Worked on ML at **SBER**
