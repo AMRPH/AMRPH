@@ -20,7 +20,7 @@
 
 ### My Social Links
 [![Kaggle](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/shidlovskiy)
-[![Hugging Face](https://img.shields.io/badge/-LeetCode-090909?style=for-the-badge&logo=huggingface)](https://huggingface.co/AMRPH)
+[![Hugging Face](https://img.shields.io/badge/-Hugging Face-090909?style=for-the-badge&logo=huggingface)](https://huggingface.co/AMRPH)
 
 ### How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/shdlvvv)
