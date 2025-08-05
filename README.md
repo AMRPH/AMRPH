@@ -1,11 +1,12 @@
-## Data Scientist / Java Developer from Russia, Moscow
+## ML Engineer / Java/Python Developer from Russia, Moscow
 
-### Languages and Tools (Data Scientist)
+### Languages and Tools (ML Engineer)
 [![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://github.com/AMRPH)
 [![PyTorch](https://img.shields.io/badge/-Pytorch-090909?style=for-the-badge&logo=pytorch)](https://github.com/AMRPH)
 [![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy)](https://github.com/AMRPH)
 [![scikit-learn](https://img.shields.io/badge/-scikitlearn-090909?style=for-the-badge&logo=scikitlearn)](https://github.com/AMRPH)
 [![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas)](https://github.com/AMRPH)
+[![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)](https://github.com/AMRPH)
 
 ### Languages and Tools (Java Developer)
 [![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=openjdk)](https://github.com/AMRPH)
