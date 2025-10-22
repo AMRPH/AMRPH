@@ -6,11 +6,11 @@
 [![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=NumPy)](https://github.com/AMRPH)
 [![scikit-learn](https://img.shields.io/badge/-scikitlearn-090909?style=for-the-badge&logo=scikitlearn)](https://github.com/AMRPH)
 [![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas)](https://github.com/AMRPH)
-[![polars](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=polars)](https://github.com/AMRPH)
+[![polars](https://img.shields.io/badge/-polars-090909?style=for-the-badge&logo=polars)](https://github.com/AMRPH)
 
 [![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)](https://github.com/AMRPH)
-[![RabbitMQ](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=rabbitmq)](https://github.com/AMRPH)
-[![Celery](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=celery)](https://github.com/AMRPH)
+[![RabbitMQ](https://img.shields.io/badge/-rabbitmq-090909?style=for-the-badge&logo=rabbitmq)](https://github.com/AMRPH)
+[![Celery](https://img.shields.io/badge/-celery-090909?style=for-the-badge&logo=celery)](https://github.com/AMRPH)
 
 ### Languages and Tools (Java Developer)
 [![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=openjdk)](https://github.com/AMRPH)
