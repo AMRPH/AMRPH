@@ -35,5 +35,8 @@
 - 🥇 Hackathon «АтомикХак» (2023)
 - 🥈 Hackathon «Код Победы» (2025)
 - 🥉 International hackathon «Цифровой прорыв. Сезон: Искусственный интелект» (2023)
+- anrel.ru (Backend)
+- 12buy.ru (Backend)
+- viraly.online (Founder, ML/Backend)
 - **1** Scientific work
 - Worked on ML at **SBER**
