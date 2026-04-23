@@ -38,5 +38,6 @@
 - anrel.ru (Backend)
 - lotumrf.ru (Backend)
 - Viraly (Founder, ML/Backend)
-- **1** Scientific work
+- **1** Scientific work:
+- https://elibrary.ru/item.asp?id=80668946
 - Worked on ML at **SBER**
