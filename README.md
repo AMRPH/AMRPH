@@ -1,4 +1,4 @@
-## ML Engineer / Java/Python Developer from Russia, Moscow
+## ML Engineer / Java Developer from Russia, Moscow
 
 ### Languages and Tools (ML Engineer)
 [![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://github.com/AMRPH)
