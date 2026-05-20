@@ -8,7 +8,7 @@
 [![pandas](https://img.shields.io/badge/-pandas-090909?style=for-the-badge&logo=pandas)](https://github.com/AMRPH)
 [![polars](https://img.shields.io/badge/-polars-090909?style=for-the-badge&logo=polars)](https://github.com/AMRPH)
 
-[![FastAPI](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=fastapi)](https://github.com/AMRPH)
+[![FastAPI](https://img.shields.io/badge/-fastapi-090909?style=for-the-badge&logo=fastapi)](https://github.com/AMRPH)
 [![RabbitMQ](https://img.shields.io/badge/-rabbitmq-090909?style=for-the-badge&logo=rabbitmq)](https://github.com/AMRPH)
 [![Celery](https://img.shields.io/badge/-celery-090909?style=for-the-badge&logo=celery)](https://github.com/AMRPH)
 
