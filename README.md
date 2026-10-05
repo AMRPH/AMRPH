@@ -35,7 +35,7 @@
 - 🥇 Hackathon «АтомикХак» (2023)
 - 🥈 Hackathon «Код Победы» (2025)
 - 🥉 International hackathon «Цифровой прорыв. Сезон: Искусственный интелект» (2023)
-- clevermart.co.uk (Co-founder, CTO)
+- https://clevermart.co.uk (Co-founder, CTO)
 - **1** Scientific work:
 - https://elibrary.ru/item.asp?id=80668946
 - Worked on ML at **SBER**
